@@ -6,7 +6,7 @@
 
 **One double-click. One honest report. Hardware health, fake-spec detection and security checks for any Windows laptop.**
 
-[![CI](https://github.com/YOUR-USERNAME/FindTheLaptop/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/FindTheLaptop/actions/workflows/ci.yml)
+[![CI](https://github.com/rashid-ahmad199/FindTheLaptop/actions/workflows/ci.yml/badge.svg)](https://github.com/rashid-ahmad199/FindTheLaptop/actions/workflows/ci.yml)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6)
 ![Python](https://img.shields.io/badge/python-3-3776AB)
 ![Languages](https://img.shields.io/badge/Python%20%C2%B7%20C%20%C2%B7%20C%2B%2B%20%C2%B7%20PowerShell-blueviolet)
@@ -51,7 +51,7 @@ Want to clean the laptop too? Double-click **`Run_Cleanup.bat`**.
 Prefer the command line?
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/FindTheLaptop.git
+git clone https://github.com/rashid-ahmad199/FindTheLaptop.git
 cd FindTheLaptop
 Run_FindTheLaptop.bat
 ```
