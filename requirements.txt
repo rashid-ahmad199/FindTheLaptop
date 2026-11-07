@@ -1,0 +1,10 @@
+psutil
+py-cpuinfo
+wmi
+nvidia-ml-py
+sounddevice
+numpy
+pyserial
+opencv-python-headless
+pycaw
+comtypes

@@ -1,0 +1,79 @@
+FIND THE LAPTOP - PROPRIETARY LICENSE (ALL RIGHTS RESERVED)
+
+Copyright (c) 2026 Rashid Ahmad. All rights reserved.
+
+This software, including its source code, documentation, images and
+scripts (the "Software"), is the property of Rashid Ahmad (the "Author").
+It is made publicly visible for transparency, so that people can read what
+it does before they run it. Being visible is NOT the same as being open
+source. No open-source license applies to this Software.
+
+1. WHAT YOU MAY DO
+
+   You may download the Software and run it, unmodified, on computers you
+   own or are considering buying, for your own personal, non-commercial use.
+
+   You may read the source code to understand what the Software does.
+
+2. WHAT YOU MAY NOT DO
+
+   Without the Author's prior written permission, you may not:
+
+   a) modify, adapt, translate, or create derivative works of the Software
+      or any part of it;
+   b) copy, republish, upload, host, mirror, or redistribute the Software
+      or any part of it, in original or changed form, on any website,
+      repository, store, or file-sharing service;
+   c) sell, rent, lease, sublicense, or otherwise commercialize the
+      Software, or use it to provide a paid service (for example,
+      inspecting laptops for customers as a business);
+   d) remove or change any copyright notice, author credit, or this
+      license;
+   e) use the Software's name, code, or content to create a competing or
+      similar product;
+   f) use the Software for any unlawful purpose, or on a computer you do
+      not own and have no permission to inspect.
+
+3. CONTRIBUTIONS
+
+   The Software is developed and maintained only by the Author. Pull
+   requests and code contributions are not accepted. Bug reports and
+   suggestions are welcome through the issue tracker. By sending a
+   suggestion, you agree that the Author may use it freely without
+   payment or credit.
+
+4. GITHUB PLATFORM NOTICE
+
+   This Software is hosted on GitHub. GitHub's Terms of Service allow
+   other GitHub users to view the repository and to fork it within the
+   GitHub platform. That permission comes from GitHub's Terms only. It
+   does not give anyone any right to modify, publish, or distribute the
+   Software outside of what Section 1 allows.
+
+5. OWNERSHIP
+
+   The Software is licensed, not sold. The Author keeps all ownership and
+   all rights not expressly granted in this license.
+
+6. TERMINATION
+
+   Your rights under this license end automatically if you break any of
+   its terms. When that happens you must stop using the Software and
+   delete all copies.
+
+7. NO WARRANTY AND LIMIT OF LIABILITY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+   THE SOFTWARE REPORTS WHAT SOFTWARE CAN SEE; IT IS NOT A SUBSTITUTE FOR
+   A PHYSICAL INSPECTION OR A FULL ANTIVIRUS. IN NO EVENT SHALL THE AUTHOR
+   BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, INCLUDING LOSS OF
+   DATA OR BAD PURCHASE DECISIONS, ARISING FROM THE USE OF THE SOFTWARE.
+
+8. PERMISSION REQUESTS
+
+   To ask for permission to do anything not allowed above, contact:
+   Open an issue in this repository titled "Permission request" (do not
+   include private information) or message the author through the GitHub
+   profile that owns this repository.
